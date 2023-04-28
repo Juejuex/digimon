@@ -1,0 +1,15 @@
+.tarjeta {
+    margin: 2%;
+    display: inline-block;
+    color: white;
+    width: 18rem;
+}
+
+.oscuro{background-color: rgb(49, 49, 49);}
+.claro{background-color: white;}
+
+.navbar-brand img {
+    height: 50px;
+    width: auto;
+    max-width: 100%;
+  }
